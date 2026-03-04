@@ -4,7 +4,7 @@ As a photographer who uses RAW files, I know firsthand that professional photos 
 
 This way, you can **keep your best photos in PNG/RAW** and convert the rest to JPEGs. It's very easy to use! 😊
 
-## 🚀 Features
+## Features
 
 - **RAW to JPEG Conversion**  
   Converts popular RAW file formats (e.g., `.nef`, `.cr2`, `.cr3`, `.arw`, `.dng`) into JPEG format.
@@ -18,7 +18,7 @@ This way, you can **keep your best photos in PNG/RAW** and convert the rest to J
 - **Non-RAW File Handling**  
   Automatically **copies non-RAW files** to the output directory to preserve the complete file hierarchy.
 
-## 🛠️ How to Run
+## How to Run
 
 Simply execute the script from the command line by providing the **path to the folder** containing your images and the **desired JPEG quality percentage**. For example:
 
